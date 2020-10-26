@@ -3,3 +3,5 @@ class Post < ApplicationRecord
 
   geragera
 end
+
+
