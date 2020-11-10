@@ -3,4 +3,6 @@ class Post < ApplicationRecord
   hugahuga
 
   geragera
+
+  hogehoge
 end
